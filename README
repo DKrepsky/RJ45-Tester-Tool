@@ -1,0 +1,12 @@
+RJ45 Cable tester
+-----------------
+
+This is a tool to test RJ45 cables, made with a PIC16F877A.
+
+Since I dont want to write this README, Im gonna place a joke and leave in silence:
+
+        A programmer had a problem and he decided to use Java. Now he has a ProblemFactory.
+
+ha, ha ;>
+
+2017, D. Krepsky
